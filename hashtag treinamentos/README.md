@@ -9,4 +9,4 @@
 
 # Vendas 2
 ![image](https://user-images.githubusercontent.com/29488124/119060757-41d4aa80-b9a9-11eb-9337-8252388e800c.png)
-![image](https://user-images.githubusercontent.com/29488124/119060776-4ac57c00-b9a9-11eb-87df-d004c1159782.png)
+![image](https://user-images.githubusercontent.com/29488124/119060847-66308700-b9a9-11eb-9167-a250a5194525.png)
