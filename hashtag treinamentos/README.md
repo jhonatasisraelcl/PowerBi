@@ -14,3 +14,9 @@
 
 # projetos
 ![image](https://user-images.githubusercontent.com/29488124/119086569-07383580-b9dc-11eb-90c6-6b0e4169215d.png)
+
+# fluxo de caixa
+![image](https://user-images.githubusercontent.com/29488124/121280833-45bf6280-c8ad-11eb-9ba8-9a81e2997a29.png)
+![image](https://user-images.githubusercontent.com/29488124/121280874-58399c00-c8ad-11eb-956f-3eca5460c17b.png)
+
+
